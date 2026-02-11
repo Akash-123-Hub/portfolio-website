@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Akash Kumar — Portfolio Website
 
 Static portfolio site (no build tools). Edit text/links, open `index.html`, and deploy anywhere.
@@ -29,3 +30,6 @@ You can deploy on:
 - Netlify
 - Vercel
 
+=======
+# Portfolio
+>>>>>>> 0fc43d9d0b9806ae8d3ad146805c59503bb0d675
